@@ -2,19 +2,19 @@ const steps = [
   {
     "id": 1,
     "label": "Présenter",
-    "title": "Présenter IKEA et les problématiques de veille",
+    "title": "Présenter IKEA et la problématique de veille",
     "course": "Dossier · Partie I",
-    "dossier": "I.1 et I.2 · Entreprise et problématiques",
-    "mission": "Commencez la partie I de votre dossier en présentant IKEA et les problématiques qui motivent votre veille.",
+    "dossier": "I.1 et I.2 · Entreprise et problématique",
+    "mission": "Commencez la partie I de votre dossier en présentant IKEA et la problématique qui motive votre veille.",
     "actions": [
       "Présentez brièvement IKEA : secteur, activité et positionnement.",
-      "Identifiez les problématiques marketing ou stratégiques d’IKEA à l’origine de votre veille."
+      "Identifiez la problématique marketing ou stratégique d’IKEA à l’origine de votre veille."
     ],
     "expectations": [
-      "Une présentation concise et des problématiques clairement reliées à la situation d’IKEA."
+      "Une présentation concise et une problématique clairement reliée à la situation d’IKEA."
     ],
-    "deliverable": "La présentation d’IKEA et les problématiques à l’origine de la veille.",
-    "transition": "À partir de ces problématiques, définissez le cadrage de votre veille.",
+    "deliverable": "La présentation d’IKEA et la problématique à l’origine de la veille.",
+    "transition": "À partir de cette problématique, définissez le cadrage de votre veille.",
     "resources": [
       [
         "Source entreprise",
@@ -43,7 +43,7 @@ const steps = [
     ],
     "actionExpectations": [
       "Une présentation courte qui situe IKEA dans son secteur, décrit son activité et explique son positionnement sur le marché.",
-      "Des problématiques formulées clairement, reliées à la situation d’IKEA, avec une explication de ce que la veille doit aider à comprendre."
+      "Une problématique formulée clairement, reliée à la situation d’IKEA, avec une explication de ce que la veille doit aider à comprendre."
     ]
   },
   {
@@ -52,15 +52,15 @@ const steps = [
     "title": "Définir le cadrage de la veille",
     "course": "Dossier · Partie I",
     "dossier": "I.3 · Type, périmètre, objectifs et méthodologie",
-    "mission": "Définissez une démarche de veille adaptée aux problématiques d’IKEA que vous avez identifiées.",
+    "mission": "Définissez une démarche de veille adaptée à la problématique d’IKEA que vous avez identifiée.",
     "actions": [
-      "Choisissez le ou les types de veille pertinents pour vos problématiques : technologique, concurrentielle, socio-économique, ou d’autres types adaptés.",
+      "Choisissez le ou les types de veille pertinents pour votre problématique : technologique, concurrentielle, socio-économique, ou d’autres types adaptés.",
       "Définissez précisément le périmètre géographique, sectoriel et temporel de votre veille.",
       "Précisez les objectifs poursuivis.",
       "Décrivez la méthodologie d’étude choisie : sources, outils, fréquence et processus."
     ],
     "expectations": [
-      "Justifiez vos choix de veille et de méthode au regard des problématiques d’IKEA. Aucun nombre de types de veille n’est imposé."
+      "Justifiez vos choix de veille et de méthode au regard de la problématique d’IKEA. Aucun nombre de types de veille n’est imposé."
     ],
     "deliverable": "Le cadrage de la veille : types retenus, périmètre, objectifs et méthodologie.",
     "transition": "Ce cadrage vous permet de sélectionner vos sources et vos outils de collecte.",
@@ -91,7 +91,7 @@ const steps = [
       ]
     ],
     "actionExpectations": [
-      "Le ou les types de veille retenus et leur justification par rapport aux problématiques d’IKEA. Le choix dépend de votre sujet ; aucun nombre n’est imposé.",
+      "Le ou les types de veille retenus et leur justification par rapport à la problématique d’IKEA. Le choix dépend de votre sujet ; aucun nombre n’est imposé.",
       "Une délimitation claire des territoires, du secteur et de la période étudiés, justifiée par rapport au sujet de veille.",
       "Des objectifs qui précisent les informations recherchées et ce qu’elles permettront de comprendre pour IKEA.",
       "Une démarche expliquée : sources envisagées, outils choisis, fréquence de suivi et étapes de collecte et de traitement, en lien avec les objectifs."
@@ -156,7 +156,7 @@ const steps = [
       "Utilisez des graphiques ou des tableaux si cela est pertinent pour présenter ces résultats."
     ],
     "expectations": [
-      "Des résultats sourcés, compréhensibles et utiles aux problématiques retenues. Les graphiques et tableaux sont à utiliser selon leur intérêt."
+      "Des résultats sourcés, compréhensibles et utiles à la problématique retenue. Les graphiques et tableaux sont à utiliser selon leur intérêt."
     ],
     "deliverable": "La synthèse des résultats significatifs, accompagnée de graphiques ou de tableaux si pertinent.",
     "transition": "Appuyez-vous sur ces résultats pour analyser l’environnement externe d’IKEA.",
